@@ -1,13 +1,13 @@
 
-#### Home
-- [Welcome](index.html)  
-- [What is Armbian?](index.html)  
-- [Common features](index.html)  
-- [...](index.html)  
+### Home
++ [Welcome](index.html)  
++ [What is Armbian?](index.html)  
++ [Common features](index.html)  
++ [...](index.html)  
 
-#### [Changelog](changelog.html)  
+### [Changelog](changelog.html)  
 
-#### User guide
+### User guide
 - Getting started
 - Quick facts
 - Troubleshooting
@@ -16,6 +16,6 @@
 - Config tool `armbianconfig`
 - ...
 
-#### Hardware notes
+### Hardware notes
 - [H3](H3.html)
 - ...
